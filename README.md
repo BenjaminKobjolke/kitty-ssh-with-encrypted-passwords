@@ -4,6 +4,7 @@ A helper tool for Kitty SSH with secure password encryption.
 
 ## Prerequisites
 
+- Download Kitty from https://www.9bis.net/kitty/
 - Python must be installed
 
 ## Installation
